@@ -13,3 +13,7 @@ function minmax(arr)
     }
     console.log("max:"+max+",min:"+min);
 }
+
+output:
+C:\Users\Sowmya Sudhireddy\3D Objects\javascript assignment> node minmax.js 5 1 7 4 9
+max:9,min:1

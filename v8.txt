@@ -1,0 +1,16 @@
+
+V8 ENGINE:
+
+->v8 engine is googles open source high performance javascript and web assembly engine.
+->this is written in c++ and used in chrome and node.js.
+->it implements ECMA script and webassembly.
+
+WEB ASSEMBLY:
+web assembly is new type of code that can run in modren web browsers and provides new features and major gains in performance.It is designed for effective compilation for low level source languages like c,c++,etc
+it provides a way to run code written in multiple languages on the web at near native speeed with client apps running on the web.
+
+->The V8 engine can run standalone we can embed it with our own C++ program.
+Let us understand the last point a little better. V8 can run standalone and at the same time we can add our own function implementation in C++ to add new features to JavaScript.
+
+So for example: print('hello world')is not a valid statement in Node.js.
+ It will give error if we compile it. But we can add our own implementation of the print function in C++ on top of the V8 which is open source at Github, thus making the print function work natively.

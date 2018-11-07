@@ -9,3 +9,7 @@ function factorial(x)
          
 }
 console.log(factorial(5));
+
+output:
+C:\Users\Sowmya Sudhireddy\3D Objects\javascript assignment> node factorial.js
+120

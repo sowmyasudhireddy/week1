@@ -18,3 +18,7 @@ function linearsearch(a)
        else console.log('number doesnt exist');
 
 }
+
+output:
+PS C:\Users\Sowmya Sudhireddy\3D Objects\javascript assignment> node serching.js 2 1 5 7 8   1
+number found

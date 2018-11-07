@@ -9,3 +9,7 @@ for(var i=0;i<arr.length;i++)
         }
     }
 }
+
+output:
+C:\Users\Sowmya Sudhireddy\3D Objects\javascript assignment> node duplicate.js 2 4 6 2 7
+duplicate element is:2

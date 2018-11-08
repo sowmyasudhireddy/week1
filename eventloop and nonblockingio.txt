@@ -1,0 +1,27 @@
+EVENT LOOP:
+
+->The Event Loop is one of the most important aspects to understand about Node.
+
+->Why is this so important? Because it explains how Node can be asynchronous and have non-blocking I/O, and so it explains basically the “killer app” of Node, the thing that made it this successful.
+
+->The Node.js JavaScript code runs on a single thread. There is just one thing happening at a time.
+
+->In general, in most browsers there is an event loop for every browser tab, to make every process isolated and avoid a web page with infinite loops or heavy processing to block your entire browser.
+
+Blocking the event loop:
+
+Any JavaScript code that takes too long to return back control to the event loop will block the execution of any JavaScript code in the page,
+ even block the UI thread, and the user cannot click around, scroll the page, and so on.
+
+NON BLOCKING I/O:
+
+->I/O refers to input/output.
+ It can be anything ranging from reading/writing local files to making an HTTP request to an API.
+
+->node.js opens a new way of performing or serving to the web requests or any other type of server requests – which is called Non-blocking IO Operation.
+Consider a scenario where we request a backend database for the details of user1 and user2 and then print them on the screen/console.
+ The response to this request takes time, but both of the user data requests can be carried out independently and at the same time.
+
+->using a non-blocking request, you can initiate a data request for user2 without waiting for the response to the request for user1. You can initiate both requests in parallel.
+
+->This non-blocking I/O eliminates the need for multi-threading since the server can handle multiple requests at the same time.

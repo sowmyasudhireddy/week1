@@ -1,0 +1,12 @@
+Advantages of compiled landuages over interpreted languages:
+
+Programming languages generally fall into one of two categories: Compiled or Interpreted.
+
+->With a compiled language, code you enter is reduced to a set of machine-specific instructions before being saved as an executable file.
+-> With interpreted languages, the code is saved in the same format that you entered. 
+
+->Compiled programs generally run faster than interpreted ones because interpreted programs must be reduced to machine instructions at runtime.because compilation is done before execution
+   whereas in interpreted languages both compilation and execution done at a time.
+Examples:
+compiler languages     : c,c++.
+interpreted languages  : PERL,python,MATLab.

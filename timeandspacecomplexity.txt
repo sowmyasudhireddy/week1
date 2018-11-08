@@ -12,14 +12,14 @@ Different types of asymptotic notations are used to represent the complexity of 
 
 O - Big Oh
 
-O - Big omega
+Ω - Big omega
 
-T- Big theta
+Θ- Big theta
 
-O - Little Oh
+o - Little Oh
 
-O  - Little omega
+Ω  - Little omega
 
 O(f(n)) gives worst case complexity of given function/algorithm.
-O(f(n)) gives best case complexity of given function/algorithm.
-T(f(n)) gives average case complexity of given function/algorithm
+Ω(f(n)) gives best case complexity of given function/algorithm.
+Θ(f(n)) gives average case complexity of given function/algorithm

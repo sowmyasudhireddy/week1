@@ -1,0 +1,27 @@
+MEAN AND MERN :
+
+The two leading open JavaScript stacks namely  MEAN and MERN 
+MEAN (MongoDB, Express, Angular, Node.js) 
+MERN (MongoDB, Express, React, Node.js)
+stacks can be used to build web applications in the shortest span of time.
+The advantage of such JavaScript stacks helps to build an integrated solution by using only JavaScript. 
+Though MEAN stack is more established among developers, studies recently indicate that React is preferred more to Angular in front-end development resulting in the surge of MERN stack.
+
+components:
+
+MongoDB – Exceptionally large volume of data can be managed using Mongo DB which is NoSQL and the data is stored as JSON data documents. 
+                   Unlike the structured databases it uses very little storage space for data.
+
+Express – This is a server HTTP framework which provides simple interfaces for building request end points and managing cookies. 
+                 It acts as the middleware to handle request and responses.
+
+Angular – We can build highly reusable maintainable and testable client side application using Angular JS and is mainly used to develop single page applications. 
+               With the help of MVC architecture it is easy to maintain the structure of the code and which makes testing easier with dependency injection.
+               Google has then launched new versions of Angular with the latest version being Angular v4.0. Angular CLI is a command line interface tool which helps in setting up a development environment.
+
+React – A declarative efficient and flexible front end JavaScript library for user interface development. 
+             JSX is mainly used for front-end development. ReactJS can be used for both client and server side whereas other popular JS frameworks like Angular will only act from client side.
+             You can read more about Interactive UI development using React here
+
+Node JS – Node JS helps to develop more faster and scalable server side application which compiles JavaScript to machine language. 
+                It is the best choice for real time and streaming applications

@@ -1,0 +1,25 @@
+TIME AND SPACE COMPLEXITIES:
+
+To Compare the performance of different algorithms and choose the best one basically we analyse using time complexity and space complexity.
+
+->Time complexity of an algorithm quantifies the amount of time taken by an algorithm to run as a function of the length of the input.
+ Similarly, Space complexity of an algorithm quantifies the amount of space or memory taken by an algorithm to run as a function of the length of the input.
+
+->Time and space complexity depends on lots of things like hardware, operating system, processors, etc. 
+However, we don't consider any of these factors while analyzing the algorithm. "We will only consider the execution time of an algorithm."
+
+Different types of asymptotic notations are used to represent the complexity of an algorithm. Following asymptotic notations are used to calculate the running time complexity of an algorithm.
+
+O - Big Oh
+
+O - Big omega
+
+T- Big theta
+
+O - Little Oh
+
+O  - Little omega
+
+O(f(n)) gives worst case complexity of given function/algorithm.
+O(f(n)) gives best case complexity of given function/algorithm.
+T(f(n)) gives average case complexity of given function/algorithm

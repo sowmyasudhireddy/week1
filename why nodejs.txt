@@ -1,0 +1,20 @@
+NODE.js
+Node.js is a JavaScript runtime environment.
+The Node run-time environment includes everything we need to execute a program written in JavaScript.
+Node.js came into existence when the original developers of JavaScript extended it from running in the browser to something you could run on your machine as a standalone application.
+
+WHY?
+->Node.js is a JavaScript runtime built on Chrome’s V8 JavaScript engine.
+->Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient.
+->Node.js’ package ecosystem, npm, is the largest ecosystem of open source libraries in the world.
+->it is very fast 
+        running of the program is very fast because it uses v8 engine and non blocking code.
+->node js encourages sharing
+        Node.js encourages sharing with the presence of the Node Package Manager or NPM. It includes the repository of 50,000 packages, which helps developers to create effective solutions.
+->good fit for real time applications
+          Node.js has extraordinary features when it comes to developing real-time applications such as chats and gaming apps.which uses event driven and non blocking servers.
+          ex:-  pay pal,linkedin,ebay etc
+->node js serves as proxy server.
+->effective single code base
+        Node.js is now proving its worth as a game-changing technology as developers are able to write JavaScript server-side and client-side coding.
+        And thus, it becomes easy to send and synchronize the data between these two points automatically, helping developers to save time.

@@ -1,0 +1,17 @@
+DATA STRUCTURES:
+
+->Data Structure can be defined as the group of data elements which provides an efficient way of storing and organising data in the computer so that it can be used efficiently. 
+ex:Array,LinkedList,stack,Queue,Trees,Graphs
+
+->Data structures can be divided into two types 
+1.primitve
+2.Non primitive
+
+->again primitive data structures are two types:
+
+linear :
+a.Static (Array)
+b.Dynamic(Linked list,Stacks,Queue)
+
+non linear:
+(Graphs,Trees)

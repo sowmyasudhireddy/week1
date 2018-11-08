@@ -1,0 +1,12 @@
+SYNCHRONOUS AND ASYNCHRONOUS
+
+->Synchronous way: It waits for each operation to complete, after that only it executes the next operation. 
+For your query: The console.log() command will not be executed until & unless the query has finished executing to get all the result from Database.
+
+example:Atom,SOL..etc
+
+->Asynchronous way: It never waits for each operation to complete, rather it executes all operations parellelly. 
+The result of each operation will be handled once the result is available.
+ For your query: The console.log() command will be executed soon after the Database.Query() method. While the Database query runs in the background and loads the result once it is finished retrieving the data.
+
+example: Nodejs,java,python,GOlang...etc

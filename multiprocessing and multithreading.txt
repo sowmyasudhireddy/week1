@@ -1,0 +1,23 @@
+MULTIPROCESSING:
+
+->A multiprocessing system is one which has more than two processors. 
+->The CPUs are added to the system to increase the computing speed of the system. 
+->Each CPU has its own set of registers and main memory.
+->Multiprocessing can be classified as :
+1.symmetric multiprocessing 
+2.asymmetric multiprocessing.
+
+->In symmetric multiprocessing, all processors are free to run any process in a system.
+
+-> In Asymmetric multiprocessing, there is a master-slave relationship among the processors. The master processor is responsible for allotting the process to slave processors.
+
+MULTITHREADING:
+
+->Multithreading is the execution of multiple threads of a single process concurrently within the context of that process.
+-> A thread of a process means a code segment of a process, which has its own thread ID, program counter, registers and stack and can execute independently. 
+But threads belonging to the same process has to share the belongings of that process like code, data, and system resources.
+
+->to understand multi threading claerly let us consider an example:
+
+->A word processor, displays graphic, responds to keystrokes, and at the same time, it continues spelling and grammar checking.
+ You do not have to open different word processors to do this concurrently. It does get happen in a single word processor with the help of multiple threads.

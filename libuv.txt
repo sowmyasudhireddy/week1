@@ -1,0 +1,6 @@
+LIBUV:
+In simple words, libuv is a library that allows your JavaScript code (via V8) to perform I/O, whether it is network, file etc.
+ So from TCP level connectivity all the way to file/system ops are actually performed by the libuv library.
+
+Though it was built for NodeJS, libuv is used by other frameworks/platforms as well such as the Luvit framework which implements libuv in Lua, the Julia language, 
+PyUV interface for Python and several others that you can find listed here libuv/libuv.

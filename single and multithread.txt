@@ -1,0 +1,10 @@
+SINGLR THREAD AND MULTI THREAD:
+
+->That means that a thread is a simple flow of instruction.
+->An application can be single thread and multi thread
+
+ single threaded : it as a single line going from the entry point of the application to its end(single connection).
+ 
+ multi-threaded:  (imagine a tree) the whole app starts from 1 point, than it branches out more and more(multiple connections).
+
+->Some connections cannot achieve full speed from a single connection, or have very unstable speeds, and multiple connections allow us to "fill" the available bandwidth more easily. 
